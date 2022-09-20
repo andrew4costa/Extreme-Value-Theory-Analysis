@@ -9,4 +9,4 @@ EVT was selected as a tool because its robust in dealing with data that has heav
 The conclusions were that:
 - bitcoin itself had all moments of its distrubtion converging, therefore implying that it was not fat-tailed
 - bitcoin returns had its first two moments converging, but its third and fourth moments converging much slower
-- the third and fourth moments for bitcoin losses did not converge (i.e. being undefined) and hence ar fat-tailed
+- the third and fourth moments for bitcoin losses did not converge (i.e. being undefined) and hence are fat-tailed
